@@ -1,0 +1,7 @@
+h1. Illustrator Moodboard Template
+
+Here is the simple moodboard template we start off with on each project. What the heck is a moodboard? You can think of it as a cork board for design ideas. We like this simplistic approach to organizing colors and imagery for design projects. It would probably fit nicely with the "EightShapes Unify":http://unify.eightshapes.com/ system as well.
+
+It's free to fork, use and modify as needed, but the images and such are copyright material. Just swap out the existing images and logo with your own and you'll be set.
+
+Enjoy!
